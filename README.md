@@ -9,7 +9,7 @@ As an Linux enthusiast I am stepping into a new field by developing software for
 
 # Skills
 - Programming languages
-  - C++
+  - C/C++
   - Python
   - Go
 - IT security
