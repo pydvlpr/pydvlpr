@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=32&pause=1000&color=74D6E1CF&background=000000&center=true&vCenter=true&multiline=true&width=768&height=128&lines=Hi,+I’m+@pydvlpr;I'm+a+software+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Roboto&weight=700&size=32&pause=1000&color=74D6E1CF&background=000000&center=true&vCenter=true&multiline=true&width=768&height=128&lines=Hi,+I’m+@pydvlpr;I'm+a+software+developer)](https://git.io/typing-svg)
 
 # About me
 Former working in cybercrime and digital forensic field I eventually started working as a software developer. I'm still at the beginning of my journey of getting excellent in software development.
