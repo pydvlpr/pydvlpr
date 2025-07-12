@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Roboto&weight=700&size=32&pause=1000&color=74D6E1CF&background=000000&center=true&vCenter=true&multiline=true&width=768&height=128&lines=Hi,+I’m+@pydvlpr;I'm+a+Cyber+Security+Engineer)](https://git.io/typing-svg)
 
 # About me
-I am a Cybersecurity Engineer with experiences in Digital Forensic, Incident Response, Cybercrime Investigation, Software Engineering, Cyber Intelligence and of cause Cybersecurity.
+I am a Cybersecurity Engineer with experiences in Digital Forensics, Incident Response, Cybercrime Investigation, Software Engineering, Cyber Intelligence and of cause Cybersecurity.
 
 I'm interested in understanding how things work in detail and how one can improve them. 
 
